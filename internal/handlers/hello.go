@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/jeffrpowell/hellogo/internal/constants"
+	"github.com/bhoggard/fllterizer-go/internal/constants"
 )
 
 func init() {

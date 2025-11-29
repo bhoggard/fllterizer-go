@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/jeffrpowell/hellogo/internal/constants"
-	//_ "github.com/jeffrpowell/hellogo/internal/database" //blank import to run init()
-	_ "github.com/jeffrpowell/hellogo/internal/handlers" //blank import to run init()
+	"github.com/bhoggard/fllterizer-go/internal/constants"
+	//_ "github.com/bhoggard/fllterizer-go/internal/database" //blank import to run init()
+	_ "github.com/bhoggard/fllterizer-go/internal/handlers" //blank import to run init()
 )
 
 func main() {
